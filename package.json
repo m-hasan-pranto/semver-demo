@@ -1,11 +1,11 @@
 {
   "name": "semver-demo",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "release": "standard-version",
-     "commit": "cz"
+    "commit": "cz"
   },
   "repository": {
     "type": "git",
