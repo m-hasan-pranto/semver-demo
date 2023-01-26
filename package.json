@@ -1,0 +1,23 @@
+{
+  "name": "semver-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m-hasan-pranto/semver-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m-hasan-pranto/semver-demo/issues"
+  },
+  "homepage": "https://github.com/m-hasan-pranto/semver-demo#readme",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
+}
